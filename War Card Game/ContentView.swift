@@ -33,7 +33,7 @@ struct ContentView: View {
                     }
                     Spacer()
                     VStack {
-                        Text("CPU")
+                        Text("Computer")
                             .font(.headline)
                             .padding(.bottom, 10.0)
                         Text("0")
